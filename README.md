@@ -3,18 +3,19 @@
 </h2>
 
 <div align="left">
-  Ingeniero mecánico trabajando en Mantenimiento de la industria siderúrgica, donde aplico el análisis de datos para determinar ABC de fallas y vida media de equipos, comparar nuevos       productos, medir el impacto de mejoras tecnológicas, etc.<br>
+  Ingeniero mecánico especializado en la aplicación de soluciones IT en la industria siderúrgica. A través de la implementación de Aplicaciones Web ayudo a las empresas a obtener el máximo provecho de sus datos para tomar decisiones complejas de forma inteligente, enfocadas en la mejora continua de los procesos productivos.<br>
   <br>
-  Tengo experiencia en Office, probabilidad, estadística y desde el año 2018 empecé a involucrarme en el mundo de los datos aprendiendo (de manera autodidacta) PYTHON, SQL y POWER BI.      También tengo algunas nociones básicas de HTML, CSS, GIT, GITHUB y Docker.<br>  
+  Desde mis inicios como ingeniero de mantenimiento me apoyé en el análisis de datos como herramienta fundamental para anticipar problemas y proponer soluciones. A lo largo de mi carrera profesional incorporé (y lo sigo haciendo) nuevas herramientas digitales para optimizar los flujos de trabajo y, de esta manera, poder brindar respuestas ágiles que contribuyen a la resolución de problemas del cliente.<br>  
   <br>
-  Me gusta la tecnología y la generación de insights a partir de datos, por eso mi deseo es desarrollarme como Data Analyst y en un futuro poder convertirme en Data Scientist. Por estas razones me interesa colaborar en proyectos relacionados con ciencia de datos, machine learning e inteligencia artificial.  
+  Me llama la atención todo lo relacionado a las nuevas tecnologías, como la IA, y su aplicación para resolver problemas del mundo real, así que espero que podamos contactar y trabajar juntos en este sentido.  
 </div>
 <h3 align="left">💡 Tecnologías:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,py,anaconda,docker"><br/>
+  <img src="https://skillicons.dev/icons?i=py,vscode,git,github,anaconda,docker,html,css"><br/>
 </div>
 <div>
-  y también tengo conocimientos en: Storytelling, SQL, Power BI, Excel, Dashboards, Probabilidad y Estadística. 
+  <br>
+  También tengo conocimientos en: POWER BI, SQL, Storytelling, Excel (VBA), Dashboards, Probabilidad y Estadística. 
 </div>
   <h3 align="left">👉 Contacto:</h3>
 <div align = "center">
